@@ -1,7 +1,7 @@
 ## Olá, meu nome é Kauan Dias, mas utilizo meu apelido "Kadisa" nas redes da qual utilizo. 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kadisa_wrd?igsh=MTRyZzFycTZ1eDd4Ng==)
- <a href="www.linkedin.com/in/kauan-dias-45543a2a9" target="_blank">
+ <a href="https://www.linkedin.com/in/kauan-dias-45543a2a9" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
