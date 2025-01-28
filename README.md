@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-dias-45543a2a9)
 
 #### ⦿ Tenho 21 anos e sou formado em Técnico em Informática para Internet pelo Insituto Federal de São Paulo - Campus Avançado São Miguel Paulista, na qual fui monitor do Curso no úlimo período.
-#### ⦿ Atualmente estou cursando Bacharelado em Ciências e Tecnologia | Ciências de Dados pela Universidade Federal do ABC (UFABC). 📗📊
+#### ⦿ **Atualmente estou cursando Bacharelado em Ciências e Tecnologia | Ciências de Dados pela Universidade Federal do ABC (UFABC).** 📗📊
 
 #### ⦿ Sou apaixonado por desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática. 💻🎲
 
