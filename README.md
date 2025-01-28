@@ -1,6 +1,7 @@
 ## Olá, meu nome é Kauan Dias, mas utilizo meu apelido "Kadisa" nas redes da qual utilizo. 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kadisa_wrd?igsh=MTRyZzFycTZ1eDd4Ng==)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-dias-45543a2a9)
 
 ### ⦿ Tenho 21 anos e sou formado em Técnico em Informática para Internet pelo Insituto Federal de São Paulo - Campus Avançado São Miguel Paulista, na qual fui monitor do Curso no úlimo período.
 ### Atualmente estou cursando Bacharelado em Ciências e Tecnologia | Ciências de Dados pela Universidade Federal do ABC (UFABC).
