@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kadisa_wrd?igsh=MTRyZzFycTZ1eDd4Ng==)
 
 ### ⦿ Tenho 21 anos e sou formado em Técnico em Informática para Internet pelo Insituto Federal de São Paulo - Campus Avançado São Miguel Paulista, na qual fui monitor do Curso no úlimo período.
+### Atualmente estou cursando Bacharelado em Ciências e Tecnologia | Ciências de Dados pela Universidade Federal do ABC (UFABC).
 
 ### ⦿ Sou apaixonado por desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática.
 
