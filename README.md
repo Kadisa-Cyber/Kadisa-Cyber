@@ -5,7 +5,7 @@
 
 #### ⦿ Tenho 21 anos e sou formado em Técnico em Informática para Internet pelo Insituto Federal de São Paulo - Campus Avançado São Miguel Paulista, na qual fui monitor do Curso no úlimo período.
 
-#### ⦿ Atualmente estou cursando Bacharelado em Ciências e Tecnologia | Ciências de Dados pela Universidade Federal do ABC (UFABC),trabalho como Programador de Sistemas na Companhia de Trens Metropolitanos e curso Desenvolvimento de Sistemas no Senai Mariano Ferraz. 📗📊
+#### ⦿ Atualmente estou cursando Bacharelado em Ciências e Tecnologia | Ciências de Dados pela Universidade Federal do ABC (UFABC), trabalho como Programador de Sistemas na Companhia de Trens Metropolitanos e curso Desenvolvimento de Sistemas no Senai Mariano Ferraz. 📗📊
 
 #### ⦿ Sou apaixonado por desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática. 💻🎲
 
